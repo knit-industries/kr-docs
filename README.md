@@ -11,6 +11,8 @@
 
 ## Useful links
 
-- [Embedded USB - a brief tutorial](https://computer-solutions.co.uk/info/Embedded_tutorials/usb_tutorial.htm)
-- [Writing device drivers in Linux: A brief tutorial](http://freesoftwaremagazine.com/articles/drivers_linux/)
+- USB driver development
+    - [Embedded USB - a brief tutorial](https://computer-solutions.co.uk/info/Embedded_tutorials/usb_tutorial.htm)
+    - [Writing device drivers in Linux: A brief tutorial](http://freesoftwaremagazine.com/articles/drivers_linux/)
+    - [Writing a Linux Kernel Driver fon an Unknown USB Device](https://matthias.vallentin.net/blog/2007/04/writing-a-linux-kernel-driver-for-an-unknown-usb-device/)
 
