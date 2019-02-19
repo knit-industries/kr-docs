@@ -12,5 +12,5 @@
 ## Useful links
 
 - [Embedded USB - a brief tutorial](https://computer-solutions.co.uk/info/Embedded_tutorials/usb_tutorial.htm)
-
+- [Writing device drivers in Linux: A brief tutorial](http://freesoftwaremagazine.com/articles/drivers_linux/)
 
