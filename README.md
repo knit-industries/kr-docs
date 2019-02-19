@@ -11,6 +11,6 @@
 
 ## Useful links
 
-- [https://computer-solutions.co.uk/info/Embedded_tutorials/usb_tutorial.htm](Embedded USB - a brief tutorial)
+- [Embedded USB - a brief tutorial](https://computer-solutions.co.uk/info/Embedded_tutorials/usb_tutorial.htm)
 
 
